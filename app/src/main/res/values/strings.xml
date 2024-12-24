@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPExample</string>
+    <!--    Spoonacular api-->
+    <string name="api_key">397d6063beb7451eb14ba7698570261c</string>
+</resources>
